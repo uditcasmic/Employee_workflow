@@ -1,0 +1,13 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+workflow_engine.db
+*.egg-info/
+htmlcov/
+dist/
+build/
+.coverage
